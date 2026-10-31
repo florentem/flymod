@@ -7,7 +7,9 @@
   "authors": [
     "Florentem"
   ],
-  "contact": {},
+  "contact": {
+    "sources": "https://github.com/florentem/flymod"
+  },
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
@@ -20,7 +22,7 @@
   },
   "depends": {
     "fabricloader": ">=0.20.1",
-    "minecraft": ">=26.2 <26.3-alpha.3",
+    "minecraft": ">=26.3 <26.4-alpha.1",
     "java": ">=25"
   },
   "suggests": {

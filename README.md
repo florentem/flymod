@@ -1,6 +1,6 @@
 # FlyMod
 
-A lightweight client-side Fabric mod for Minecraft 26.2 that plays a realistic 3D fly buzzing sound when players zoom past you in flight.
+A lightweight client-side Fabric mod for Minecraft **26.3** (for 26.2, see the [`26.2`](https://github.com/florentem/flymod/tree/26.2) branch) that plays a realistic 3D fly buzzing sound when players zoom past you in flight.
 
 ## Features
 - **Dynamic 3D Audio**: Plays an insect buzzing sound for nearby flying players (Creative flight, Elytra gliding, and Trident Riptide launches).
