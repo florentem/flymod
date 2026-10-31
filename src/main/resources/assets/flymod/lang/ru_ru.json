@@ -1,0 +1,21 @@
+{
+  "subtitles.flymod.fly_buzz": "Жужжание мухи",
+  "text.flymod.config.title": "Настройки Fly Mod",
+  "text.flymod.config.category.general": "Основные настройки",
+  "text.flymod.config.enabled": "Включить звук мухи",
+  "text.flymod.config.enabled.tooltip": "Включает непрерывный звук жужжания, когда мимо пролетает игрок.",
+  "text.flymod.config.volume": "Общая громкость",
+  "text.flymod.config.volume.tooltip": "Базовая громкость звука мухи.",
+  "text.flymod.config.max_distance": "Дальность слышимости",
+  "text.flymod.config.max_distance.tooltip": "Максимальное расстояние в блоках, на котором слышно летящего игрока.",
+  "text.flymod.config.speed_sensitivity": "Чувствительность к скорости",
+  "text.flymod.config.speed_sensitivity.tooltip": "Насколько сильнее увеличивается громкость при высокой скорости полёта.",
+  "text.flymod.config.doppler": "Эффект Доплера (смещение высоты)",
+  "text.flymod.config.doppler.tooltip": "Динамически повышает тон при приближении и понижает при удалении.",
+  "text.flymod.config.enable_for_self": "Звук для самого себя",
+  "text.flymod.config.enable_for_self.tooltip": "Издавать звук мухи, когда летаете вы сами (по умолчанию только другие игроки).",
+  "text.flymod.config.enable_elytra": "Учитывать полёт на элитрах",
+  "text.flymod.config.enable_elytra.tooltip": "Воспроизводить жужжание при планировании на элитрах.",
+  "text.flymod.config.enable_trident": "Учитывать трезубец (Тягун)",
+  "text.flymod.config.enable_trident.tooltip": "Воспроизводить жужжание при полёте на трезубце с чарами Тягун."
+}

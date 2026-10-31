@@ -1,0 +1,13 @@
+{
+  "fly_buzz": {
+    "category": "player",
+    "subtitle": "subtitles.flymod.fly_buzz",
+    "sounds": [
+      {
+        "name": "flymod:fly_buzz",
+        "stream": false,
+        "attenuation_distance": 32
+      }
+    ]
+  }
+}

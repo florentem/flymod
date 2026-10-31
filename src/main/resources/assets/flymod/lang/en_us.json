@@ -1,0 +1,21 @@
+{
+  "subtitles.flymod.fly_buzz": "Fly buzzing",
+  "text.flymod.config.title": "Fly Mod Settings",
+  "text.flymod.config.category.general": "General Settings",
+  "text.flymod.config.enabled": "Enable Fly Sound",
+  "text.flymod.config.enabled.tooltip": "Toggles the fly buzzing sound when players fly past you.",
+  "text.flymod.config.volume": "Master Volume",
+  "text.flymod.config.volume.tooltip": "Adjusts the overall volume of the fly buzzing sound.",
+  "text.flymod.config.max_distance": "Max Hearing Distance",
+  "text.flymod.config.max_distance.tooltip": "Maximum distance in blocks from which you can hear a flying player.",
+  "text.flymod.config.speed_sensitivity": "Speed Sensitivity",
+  "text.flymod.config.speed_sensitivity.tooltip": "How strongly player flight speed amplifies the buzz volume.",
+  "text.flymod.config.doppler": "Doppler Pitch Shift",
+  "text.flymod.config.doppler.tooltip": "Modulates pitch dynamically as the player approaches and flies away.",
+  "text.flymod.config.enable_for_self": "Play For Yourself",
+  "text.flymod.config.enable_for_self.tooltip": "Play the buzzing sound when you fly (by default only other players buzz).",
+  "text.flymod.config.enable_elytra": "Include Elytra Flying",
+  "text.flymod.config.enable_elytra.tooltip": "Play the buzzing sound when players are gliding with Elytra.",
+  "text.flymod.config.enable_trident": "Include Trident Riptide",
+  "text.flymod.config.enable_trident.tooltip": "Play the buzzing sound when players launch with a Riptide Trident."
+}

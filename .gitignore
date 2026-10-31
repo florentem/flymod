@@ -1,0 +1,10 @@
+.gradle/
+build/
+bin/
+out/
+.idea/
+*.iml
+.vscode/
+sound_samples/
+flymod-1.0.0.jar
+example_resourcepack.zip

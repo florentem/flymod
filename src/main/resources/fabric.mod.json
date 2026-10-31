@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "flymod",
+  "version": "${version}",
+  "name": "Fly Mod",
+  "description": "Plays a continuous fly buzzing sound when players fly past you, louder when closer and faster!",
+  "authors": [
+    "Florentem"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.flymod.FlyModClient"
+    ],
+    "modmenu": [
+      "com.flymod.config.FlyModMenuCompat"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": ">=26.2 <26.3-alpha.3",
+    "java": ">=25"
+  },
+  "suggests": {
+    "cloth-config": "*",
+    "modmenu": "*"
+  }
+}
